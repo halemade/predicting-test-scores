@@ -9,7 +9,7 @@
 
 ## Overview
 
-This project uses a variety of enviromental variables to predict student test scores.
+This project uses a variety of enviromental variables to predict student test scores using linear regression.
 
 ## Data Sources & Features
 
