@@ -1,5 +1,4 @@
-<H1> Predicting Student Test Scores </H1>
-![Photo by <a href="https://unsplash.com/@jakobowens1?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Jakob Owens</a> on <a href="https://unsplash.com/@halemade/likes?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+![Photo by <a href="https://unsplash.com/photos/qDgTQOYk6B8">Nguyen Dang Hoang Nhu</a> on <a href="https://unsplash.com/photos/qDgTQOYk6B8">Unsplash</a>
   ](./images/nguyen-dang-hoang-nhu-qDgTQOYk6B8-unsplash.jpg)
 
 # Predicting Student Test Scores
