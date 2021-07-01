@@ -25,7 +25,7 @@ See the full analysis in the [Jupyter Notebook](./test_score_analysis.ipynb) or 
 
 For additional info, contact the authors at:<br>
 [Taylor Hale Robert](mailto:taylorhale11@gmail.com)
-<br>[Dalton Rabb](mailto:drabb138@gmail.com))
+<br>[Dalton Rabb](mailto:drabb138@gmail.com)
 
 
 ## Repository Structure
