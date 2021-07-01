@@ -13,8 +13,6 @@ This project uses a variety of enviromental variables to predict student test sc
 
 ## Data Sources & Features
 
-We worked across 1 different data sources for this analysis:
-
-- [kaggle student test data](https://www.kaggle.com/spscientist/students-performance-in-exams) data was used for our analysis
+[Kaggle student test data](https://www.kaggle.com/spscientist/students-performance-in-exams) data was used for our analysis
 
 We used the pretest and posttest scores as the target variable in our analysis.
