@@ -24,7 +24,7 @@ View EDA code here.
 ## Summary
 ### Baseline Model
 ![baseline regression](./images/baseline.png)
-First, we explored a baseline regression model to understand how well the school system currently predicts scores using only pretest data. ~90% of the variation observed in posttest scores can be explained as a function of pretest scores. The residuals for this model were normally distributed, and the RMSE for this model is _____, which is a little less than ½ a grade.
+First, we explored a baseline regression model to understand how well the school system currently predicts scores using only pretest data. ~90% of the variation observed in posttest scores can be explained as a function of pretest scores. The residuals for this model were normally distributed, and the RMSE for this model is 4.33, which is a little less than ½ a grade.
 
 ### Predicting Student Performance as a Function of Environmental Variables
 Because the school system is interested in how well they might predict student performance without the added expense of pretesting, we moved on to build a model that did not use pretest scores, and used only environmental information about the school and classroom to predict posttest performance.
@@ -32,7 +32,7 @@ The initial model had an R2 value of .86 and an RMSE of 6.34. After checking the
 
 Using recursive feature elimination we improved this performance of the model to have an RMSE of 5.71 and R-squared of 0.83, and saw improvement in cross validation scores.
 
-I was particularly surprised to see that estimating student performance as a target of environmental predictors alone can be fairly successful. While this model explains 83% of the variance in the data as opposed to the 90% achieved in the pretest model, and the RMSE is 1.4 grade points higher, I expect this model would still be useful as it provides a high level of insight without requiring the more laborious-to-collect pretest scores.
+I was particularly surprised to see that estimating student performance as a target of environmental predictors alone can be fairly successful. While this model explains 85% of the variance in the data as opposed to the 90% achieved in the pretest model, and the RMSE is 1.4 grade points higher, I expect this model would still be useful as it provides a high level of insight without requiring the more laborious-to-collect pretest scores.
 
 ### Improving Current Practice Utilizing Multiple Linear Regression
 To understand how the school system might improve models to achieve the most reliable predictions, we then created a model using both pretest data and environmental data as predictors for the target variable, posttest score.
