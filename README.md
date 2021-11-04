@@ -13,7 +13,7 @@ This project uses a variety of enviromental variables to predict student test sc
 
 ## Data Sources & Features
 
-[Kaggle student test data](https://www.kaggle.com/spscientist/students-performance-in-exams) data was used for our analysis
+[Kaggle student test data](https://www.kaggle.com/spscientist/students-performance-in-exams) data was used for our analysis, which can be accessed using the link.
 
 We used posttest scores as the target variable in our analysis. Posstest score can be interpreted as grades, where grades are given on a scale of 0-100 where 90-100 is an A, 80-90 is a B and so on.
 
